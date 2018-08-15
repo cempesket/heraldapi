@@ -1,4 +1,4 @@
-package com.herald.heraldapi.application;
+package com.herald.heraldapi;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

@@ -1,4 +1,4 @@
-package com.herald.heraldapi.application;
+package com.herald.heraldapi;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
